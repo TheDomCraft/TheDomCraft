@@ -23,5 +23,5 @@ Right now, I'm exploring:
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects —  
+Thanks for stopping by! Feel free to explore my projects - 
 I'm always working on something a little weird, a little technical, and a lot of fun. 😄
